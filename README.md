@@ -1,6 +1,6 @@
 # Deployed on https://facebook-clone-15bf3.web.app/
 
-# Stacks use:
+# Stacks used:
 
 1. React Api Context From
 2. React
