@@ -1,5 +1,12 @@
 # Deployed on https://facebook-clone-15bf3.web.app/
 
+# Stacks use:
+
+1. React Api Context From
+2. React
+3. Firebase
+4. Material UI core and icons
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
