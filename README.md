@@ -1,4 +1,4 @@
-# Deployed on https://facebook-clone-15bf3.web.app/
+# Deployed on https://facebook.webaiz.com/
 
 # Stacks used:
 
